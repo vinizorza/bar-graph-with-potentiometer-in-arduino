@@ -1,7 +1,6 @@
 /*
 
 This is a great algorithm performance to control a bar graph in arduino with a potentiometer.
-There is a image on GitHub showing how to buid the prototipe. 
 
 */
 
