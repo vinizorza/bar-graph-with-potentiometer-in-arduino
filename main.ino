@@ -1,9 +1,3 @@
-/*
-
-This is a great algorithm performance to control a bar graph in arduino with a potentiometer.
-
-*/
-
 #define potentiometer_pin A0
 int potentiometer_value;
 int led[10] = {2, 3, 4, 5, 6, 7, 8, 9, 10, 11};
